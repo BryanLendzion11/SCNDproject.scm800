@@ -1,0 +1,52 @@
+Origin,Destination,Cost_FTL,Cost_LTL
+"Memphis, TN",New York,4080.0,310.0
+"Denver, CO",Los Angeles,3260.0,240.0
+"Memphis, TN",Chicago,1950.0,150.0
+"Memphis, TN",Houston,2150.0,170.0
+"Denver, CO",Phoenix,2520.0,190.0
+"Memphis, TN",Philadelphia,3260.0,260.0
+"Memphis, TN",San Antonio,2130.0,180.0
+"Denver, CO",San Diego,3230.0,250.0
+"Memphis, TN",Dallas,1790.0,140.0
+"Denver, CO",San Jose,3580.0,300.0
+"Memphis, TN",Austin,2070.0,170.0
+"Memphis, TN",Jacksonville,1880.0,170.0
+"Memphis, TN",Fort Worth,1920.0,150.0
+"Memphis, TN",Columbus,1670.0,140.0
+"Memphis, TN",Charlotte,1770.0,160.0
+"Denver, CO",San Francisco,4080.0,320.0
+"Memphis, TN",Indianapolis,1310.0,110.0
+"Denver, CO",Seattle,4080.0,310.0
+"Denver, CO",Denver,800.0,60.0
+"Memphis, TN",Washington,3000.0,240.0
+"Memphis, TN",Boston,4490.0,340.0
+"Denver, CO",El Paso,1770.0,170.0
+"Memphis, TN",Detroit,2380.0,190.0
+"Memphis, TN",Nashville,800.0,70.0
+"Denver, CO",Portland,3280.0,280.0
+"Memphis, TN",Memphis,820.0,80.0
+"Memphis, TN",Oklahoma City,1590.0,150.0
+"Denver, CO",Las Vegas,2210.0,180.0
+"Memphis, TN",Louisville,1160.0,110.0
+"Memphis, TN",Baltimore,3070.0,270.0
+"Memphis, TN",Milwaukee,1990.0,180.0
+"Denver, CO",Albuquerque,1160.0,120.0
+"Denver, CO",Tucson,2220.0,200.0
+"Denver, CO",Fresno,3050.0,280.0
+"Denver, CO",Mesa,2110.0,160.0
+"Denver, CO",Sacramento,3280.0,270.0
+"Memphis, TN",Atlanta,1440.0,110.0
+"Memphis, TN",Kansas City,1340.0,120.0
+"Denver, CO",Colorado Springs,790.0,80.0
+"Memphis, TN",Miami,3720.0,290.0
+"Memphis, TN",Raleigh,2320.0,200.0
+"Denver, CO",Omaha,1510.0,140.0
+"Denver, CO",Long Beach,3730.0,290.0
+"Memphis, TN",Virginia Beach,2910.0,260.0
+"Denver, CO",Oakland,3860.0,300.0
+"Memphis, TN",Minneapolis,2540.0,190.0
+"Memphis, TN",Tulsa,1060.0,100.0
+"Memphis, TN",Arlington,1640.0,130.0
+"Memphis, TN",New Orleans,1170.0,110.0
+"Denver, CO",Wichita,1440.0,130.0
+"Memphis, TN",Cleveland,2250.0,200.0
