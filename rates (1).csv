@@ -1,0 +1,52 @@
+Origin,Destination,State,Cost_FTL,Cost_LTL
+"Memphis, TN",New York,New York,4080,310
+"Denver, CO",Los Angeles,California,3260,240
+"Memphis, TN",Chicago,Illinois,1950,150
+"Memphis, TN",Houston,Texas,2150,170
+"Denver, CO",Phoenix,Arizona,2520,190
+"Memphis, TN",Philadelphia,Pennsylvania,3260,260
+"Memphis, TN",San Antonio,Texas,2130,180
+"Denver, CO",San Diego,California,3230,250
+"Memphis, TN",Dallas,Texas,1790,140
+"Denver, CO",San Jose,Washington,3580,300
+"Memphis, TN",Austin,Texas,2070,170
+"Memphis, TN",Jacksonville,Florida,1880,170
+"Memphis, TN",Fort Worth,Texas,1920,150
+"Memphis, TN",Columbus,Ohio,1670,140
+"Memphis, TN",Charlotte,North Carolina,1770,160
+"Denver, CO",San Francisco,California,4080,320
+"Memphis, TN",Indianapolis,Indiana,1310,110
+"Denver, CO",Seattle,Arizona,4080,310
+"Denver, CO",Denver,Colorado,800,60
+"Memphis, TN",Washington,Kansas,3000,240
+"Memphis, TN",Boston,Massachusetts,4490,340
+"Denver, CO",El Paso,Texas,1770,170
+"Memphis, TN",Detroit,Michigan,2380,190
+"Memphis, TN",Nashville,Tennessee,800,70
+"Denver, CO",Portland,Oregon,3280,280
+"Memphis, TN",Memphis,Tennessee,820,80
+"Memphis, TN",Oklahoma City,Oklahoma,1590,150
+"Denver, CO",Las Vegas,Nevada,2210,180
+"Memphis, TN",Louisville,Kentucky,1160,110
+"Memphis, TN",Baltimore,Maryland,3070,270
+"Memphis, TN",Milwaukee,Wisconsin,1990,180
+"Denver, CO",Albuquerque,New Mexico,1160,120
+"Denver, CO",Tucson,Oklahoma,2220,200
+"Denver, CO",Fresno,California,3050,280
+"Denver, CO",Mesa,Arizona,2110,160
+"Denver, CO",Sacramento,California,3280,270
+"Memphis, TN",Atlanta,Georgia,1440,110
+"Memphis, TN",Kansas City,Missouri,1340,120
+"Denver, CO",Colorado Springs,Colorado,790,80
+"Memphis, TN",Miami,Florida,3720,290
+"Memphis, TN",Raleigh,North Carolina,2320,200
+"Denver, CO",Omaha,Nebraska,1510,140
+"Denver, CO",Long Beach,California,3730,290
+"Memphis, TN",Virginia Beach,District of Columbia,2910,260
+"Denver, CO",Oakland,California,3860,300
+"Memphis, TN",Minneapolis,Minnesota,2540,190
+"Memphis, TN",Tulsa,Virginia,1060,100
+"Memphis, TN",Arlington,Texas,1640,130
+"Memphis, TN",New Orleans,Louisiana,1170,110
+"Denver, CO",Wichita,Kansas,1440,130
+"Memphis, TN",Cleveland,Ohio,2250,200
