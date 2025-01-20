@@ -1,0 +1,52 @@
+Destination,State,Cost_FTL,Cost_LTL
+New York,New York,4080,310
+Los Angeles,California,3260,240
+Chicago,Illinois,1950,150
+Houston,Texas,2150,170
+Phoenix,Arizona,2520,190
+Philadelphia,Pennsylvania,3260,260
+San Antonio,Texas,2130,180
+San Diego,California,3230,250
+Dallas,Texas,1790,140
+San Jose,Washington,3580,300
+Austin,Texas,2070,170
+Jacksonville,Florida,1880,170
+Fort Worth,Texas,1920,150
+Columbus,Ohio,1670,140
+Charlotte,North Carolina,1770,160
+San Francisco,California,4080,320
+Indianapolis,Indiana,1310,110
+Seattle,Arizona,4080,310
+Denver,Colorado,800,60
+Washington,Kansas,3000,240
+Boston,Massachusetts,4490,340
+El Paso,Texas,1770,170
+Detroit,Michigan,2380,190
+Nashville,Tennessee,800,70
+Portland,Oregon,3280,280
+Memphis,Tennessee,820,80
+Oklahoma City,Oklahoma,1590,150
+Las Vegas,Nevada,2210,180
+Louisville,Kentucky,1160,110
+Baltimore,Maryland,3070,270
+Milwaukee,Wisconsin,1990,180
+Albuquerque,New Mexico,1160,120
+Tucson,Oklahoma,2220,200
+Fresno,California,3050,280
+Mesa,Arizona,2110,160
+Sacramento,California,3280,270
+Atlanta,Georgia,1440,110
+Kansas City,Missouri,1340,120
+Colorado Springs,Colorado,790,80
+Miami,Florida,3720,290
+Raleigh,North Carolina,2320,200
+Omaha,Nebraska,1510,140
+Long Beach,California,3730,290
+Virginia Beach,District of Columbia,2910,260
+Oakland,California,3860,300
+Minneapolis,Minnesota,2540,190
+Tulsa,Virginia,1060,100
+Arlington,Texas,1640,130
+New Orleans,Louisiana,1170,110
+Wichita,Kansas,1440,130
+Cleveland,Ohio,2250,200
